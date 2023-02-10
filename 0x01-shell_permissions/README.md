@@ -9,3 +9,4 @@
 8-James_Bond - permission to only thw world. 
 9-John_Doe - setz mode to 753. 
 10-mirror_permissions - change to another file's permission. 
+11-directories_permissions - adds execution permission to subdirectories. 
