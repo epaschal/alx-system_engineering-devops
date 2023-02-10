@@ -7,4 +7,5 @@
 6-multiple_permissions - changes the permissions of owner, group and others. 
 7-everybody - execution permission to everybody. 
 8-James_Bond - permission to only thw world. 
-9-John_Doe - setz mode to 753
+9-John_Doe - setz mode to 753. 
+10-mirror_permissions - change to another file's permission. 
