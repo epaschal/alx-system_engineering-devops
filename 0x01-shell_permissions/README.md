@@ -3,3 +3,4 @@
 2-groups - to check user groups. 
 3-new_owner - to change the owner of a file. 
 4-empty - to create an empty file. 
+5-execute - adds execute permission to owner. 
