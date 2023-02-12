@@ -4,3 +4,4 @@
 3-listfiles - list contents in long format. 
 4-listmorefiles - lists all contents including hidden files in long format. 
 5-listfilesdigitonly - lists all contents with uid and gid numerically. 
+6-firstdirectory - creates temporary directory. 
